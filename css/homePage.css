@@ -41,7 +41,6 @@ body {
     color: #42515f;
 
 }
-  /*UC2....*/
   .main-content{
     display: flex;
     flex-direction: column;
@@ -88,7 +87,6 @@ body {
     cursor: pointer;
     text-decoration: none;
 }
-/*UC3.....*/
 
 .table-main{
     width: 80%;
